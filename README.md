@@ -9,7 +9,7 @@ Hello, I'm Luiz!
   
   <a href="https://github.com/nov5lll">
     
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=nov5lll&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=nov5lll&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true"/>
     
  </div>
   
